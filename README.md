@@ -3,6 +3,8 @@ Repository that holds all the code for the Girls In Tech - Hacking for Humanity 
 
 Official Project on Devpost: https://devpost.com/software/govet-xnw3fy
 
+The theme was how to help veterans and their families.
+
 ## GoVet
 GoVet is a mobile web application that aims at raising awareness about veteran considerations by gamifying and exposing them to veterans’ stories so that they better appreciate the veteran population in their local community.
 
