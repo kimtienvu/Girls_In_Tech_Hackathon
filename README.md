@@ -42,6 +42,7 @@ Further developing the selection algorithm, improving the design and layout of t
 
 ## Links of GoVet
 Demo Video: https://www.youtube.com/watch?v=t-3G-YnBuas&feature=youtu.be&ab_channel=YulingShi
+
 User interface app Video: https://drive.google.com/file/d/13qTjApASirhLHrTJDR_IbB2H7Cms5iKr/view
 
 ## Built With
