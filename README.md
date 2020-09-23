@@ -1,5 +1,5 @@
 # Girls_In_Tech_Hackathon
-Repository that holds all the code for the Girls In Tech - Hacking for Humanity (2019)
+Repository for the Girls In Tech - Hacking for Humanity (2019) Project
 
 Official Project on Devpost: https://devpost.com/software/govet-xnw3fy
 
